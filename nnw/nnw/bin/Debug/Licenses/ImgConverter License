@@ -1,0 +1,8 @@
+Методы загрузки изображения, и чтения в 3х-мерный массив байт(LoadBitmap и BaseTransformBmp(Bitmap bmp)) из класса: ImgConverter взяты от сюда:
+https://habr.com/ru/post/196578/
+
+
+Исходный код: https://archive.codeplex.com/?p=rasterconversion
+
+
+Код лицензируется под Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
